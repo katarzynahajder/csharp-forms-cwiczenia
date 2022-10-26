@@ -1,0 +1,20 @@
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kasia\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\uczen\Desktop\kalkulator w formsach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
